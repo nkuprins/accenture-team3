@@ -1,3 +1,5 @@
+I'm Gustavs Prolis, a software engineer with a background in civil engineering.
+Interested in learning to use Java, Docker and other technologies. Also I am striving to get a job with Accenture.
 Nikita Kuprins
 Apache software contributor
 SCRUM, Spring
